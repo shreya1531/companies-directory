@@ -12,7 +12,7 @@ It displays a list of companies with search, filter, sorting, pagination, and da
 ---
 
 ## 📂 GitHub Repository
-🔗 
+🔗 https://github.com/shreya1531/companies-directory.git
 
 ---
 
